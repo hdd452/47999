@@ -23,4 +23,4 @@
 简洁界面，优质体验
 我们的界面设计简洁直观，操作便捷。每个视频页面提供详细介绍和演员信息，方便你快速做出选择。站内还设有热门推荐、最新更新专区，让你轻松发现更多优质影片。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/hdd452/47999 ）</span>
